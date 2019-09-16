@@ -5,7 +5,7 @@
 ### Links and Resources
 * [submission PR]()
 
-* [Travis]()
+* [![Build Status](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-29.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-29)
 
 ### Modules
 #### cards.js
