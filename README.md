@@ -3,7 +3,7 @@
 ### Authors: Jonny
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-29)
+* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-29/pull/1)
 
 * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-29.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-29)
 
